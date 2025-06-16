@@ -16,7 +16,7 @@
     <meta name="language" content="Indonesia" />
     <meta name="author" content="เว็บไซต์ SuperT88" />   
     <!-- Open Graph (untuk sosial media preview) -->
-    <meta name="og:url" content="https://clientengagement.smeru.or.id/cax/" />
+    <meta name="og:url" content="https://clientengagement.smeru.or.id/" />
     <meta name="og:title" content="เว็บไซต์เดิมพันที่ใหญ่ที่สุดที่มอบโบนัสและรางวัลแฟนตาซีให้กับผู้เล่นทุกคน | ด้วยเงินทุนเพียงเล็กน้อยสามารถรับรางวัลสูงสุดถึง ฿ 1000." />
     <meta name="og:type" content="product" />
     <meta name="og:description" content="เว็บไซต์นี้เป็นเว็บไซต์พนันขนาดใหญ่ที่เชื่อถือได้ ซึ่งมอบโบนัสและรางวัลที่ยอดเยี่ยม รวมถึงโบนัสเพิ่มเติมทุกวันสำหรับนักเดิมพันเกมพนัน" />
@@ -24,7 +24,7 @@
     <meta name="google-site-verification" content="-7CICDccpFNFFRNHTZL1Vl-NLQMycVYS3dJy1MRdRmE" />
     <link rel="icon" type="image/x-icon" href="https://ik.imagekit.io/jadusquad/logojadu.png" />
     <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json" />
-    <link rel="canonical" href="https://clientengagement.smeru.or.id/cax/" />
+    <link rel="canonical" href="https://clientengagement.smeru.or.id/" />
     <link rel="amphtml" href="https://cdn-amp-bbs.com/act/cax/index.html" />
     <!-- start preload -->
     <link rel="preload" href="https://cdn-amp-bbs.com/img/202506161118.gif" as="image" />
@@ -747,14 +747,14 @@
         "description": "เว็บไซต์นี้เป็นเว็บไซต์พนันขนาดใหญ่ที่เชื่อถือได้ ซึ่งมอบโบนัสและรางวัลที่ยอดเยี่ยม รวมถึงโบนัสเพิ่มเติมทุกวันสำหรับนักเดิมพันเกมพนัน
 
 ",
-        "url": "https://clientengagement.smeru.or.id/cax/",
+        "url": "https://clientengagement.smeru.or.id/",
         "brand": {
           "@type": "Brand",
           "name": "เว็บไซต์ SuperT88"
         },
         "offers": {
           "@type": "Offer",
-          "url": "https://clientengagement.smeru.or.id/cax/",
+          "url": "https://clientengagement.smeru.or.id/",
           "price": "777",
           "priceCurrency": "IDR",
           "priceValidUntil": "2025-01-23",
@@ -762,7 +762,7 @@
           "hasMerchantReturnPolicy": {
             "@type": "MerchantReturnPolicy",
             "refundType": "http://schema.org/FullRefund",
-            "merchantReturnLink": "https://clientengagement.smeru.or.id/cax/",
+            "merchantReturnLink": "https://clientengagement.smeru.or.id/",
             "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
             "merchantReturnDays": 60,
             "returnMethod": "https://schema.org/ReturnByMail",
@@ -838,27 +838,27 @@
             "@type": "ListItem", 
             "position": 1, 
             "name": "หน้าแรก SuperT88",
-            "item": "https://clientengagement.smeru.or.id/cax/"  
+            "item": "https://clientengagement.smeru.or.id/"  
           },{
             "@type": "ListItem", 
             "position": 2, 
             "name": "โปรไฟล์ SuperT88",
-            "item": "https://clientengagement.smeru.or.id/cax/"  
+            "item": "https://clientengagement.smeru.or.id/"  
           },{
             "@type": "ListItem", 
             "position": 3, 
             "name": "คำแปลของ SuperT88",
-            "item": "https://clientengagement.smeru.or.id/cax/"  
+            "item": "https://clientengagement.smeru.or.id/"  
           },{
             "@type": "ListItem", 
             "position": 4, 
             "name": "เดโมสล็อต PG",
-            "item": "https://clientengagement.smeru.or.id/cax/"  
+            "item": "https://clientengagement.smeru.or.id/"  
           },{
             "@type": "ListItem", 
             "position": 5, 
             "name": "การสาธิตล็อตเตอรี่",
-            "item": "https://clientengagement.smeru.or.id/cax/"  
+            "item": "https://clientengagement.smeru.or.id/"  
           }]
         }
         </script>
@@ -1044,10 +1044,10 @@
                                                     </div>
                                                     <div class="error-message" id="topActionDownloadErrorMsg"></div>
                                                     <div class="app-stores">
-                                                        <a href="https://clientengagement.smeru.or.id/cax/" class="store-link">
+                                                        <a href="https://clientengagement.smeru.or.id/" class="store-link">
                                                             <i class="app-apple"></i>
                                                         </a>
-                                                        <a href="https://clientengagement.smeru.or.id/cax/" class="store-link">
+                                                        <a href="https://clientengagement.smeru.or.id/" class="store-link">
                                                             <i class="app-google"></i>
                                                         </a>
                                                     </div>
@@ -1200,7 +1200,7 @@
                         <div class="lzd-logo-bar">
                             <div class="logo-bar-content header-content">
                                 <div class="lzd-logo-content">
-                                    <a href="https://clientengagement.smeru.or.id/cax/" data-spm="dhome"><img
+                                    <a href="https://clientengagement.smeru.or.id/" data-spm="dhome"><img
                                             src="https://ik.imagekit.io/jadusquad/logojadu.png"
                                             alt="การฝากเงิน pragmatic" /></a>
                                 </div>
@@ -1218,7 +1218,7 @@
                                             data-mod-name="@ali/lzdmod-site-menu-nav-pc/pc/index" data-config="{}">
                                             <div class="lzd-site-menu-nav-container">
                                                 <div class="lzd-site-menu-nav-category">
-                                                    <a href="https://clientengagement.smeru.or.id/cax/">
+                                                    <a href="https://clientengagement.smeru.or.id/">
                                                         <span class="lzd-site-menu-nav-category-text">คำจำแนกประเภท</span>
                                                     </a>
                                                     <div class="lzd-site-menu-nav-menu">
@@ -2535,7 +2535,7 @@
                                                     </div>
                                                 </div>
                                                 <nav class="lzd-menu-labels" data-spm="menu">
-                                                    <a class="lzd-menu-labels-item" href="https://clientengagement.smeru.or.id/cax/">
+                                                    <a class="lzd-menu-labels-item" href="https://clientengagement.smeru.or.id/">
                                                         <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                                             <img alt="เดโมสล็อต PG" class="lzd-site-nav-menu-iconfont-img"
                                                                 src="https://ik.imagekit.io/jadusquad/logojadu.png" />
@@ -2543,7 +2543,7 @@
                                                         <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-LazMall">&#xe629;</i>-->
                                                         <span class="lzd-menu-labels-item-text">เดโมสล็อต PG</span>
                                                     </a>
-                                                    <a class="lzd-menu-labels-item" href="https://clientengagement.smeru.or.id/cax/">
+                                                    <a class="lzd-menu-labels-item" href="https://clientengagement.smeru.or.id/">
                                                         <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                                             <img alt="การสาธิตล็อตเตอรี่" class="lzd-site-nav-menu-iconfont-img"
                                                                 src="https://ik.imagekit.io/jadusquad/logojadu.png" />
@@ -2551,7 +2551,7 @@
                                                         <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-MobileTop1">&#xe768;</i>-->
                                                         <span class="lzd-menu-labels-item-text">การสาธิตล็อตเตอรี่</span>
                                                     </a>
-                                                    <a class="lzd-menu-labels-item" href="https://clientengagement.smeru.or.id/cax/">
+                                                    <a class="lzd-menu-labels-item" href="https://clientengagement.smeru.or.id/">
                                                         <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                                             <img alt="การฝากเงิน" class="lzd-site-nav-menu-iconfont-img"
                                                                 src="https://ik.imagekit.io/jadusquad/logojadu.png" />
@@ -2559,7 +2559,7 @@
                                                         <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-Vouchers">&#xe76a;</i>-->
                                                         <span class="lzd-menu-labels-item-text">การฝากเงิน</span>
                                                     </a>
-                                                    <a class="lzd-menu-labels-item" href="https://clientengagement.smeru.or.id/cax/">
+                                                    <a class="lzd-menu-labels-item" href="https://clientengagement.smeru.or.id/">
                                                         <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                                             <img alt="การถอนเงิน" class="lzd-site-nav-menu-iconfont-img"
                                                                 src="https://ik.imagekit.io/jadusquad/logojadu.png" />
@@ -2573,7 +2573,7 @@
                                     </div>
                                 </div>
                                 <div class="lzd-nav-cart">
-                                    <a href="https://clientengagement.smeru.or.id/cax/" data-spm="dcart"><span class="cart-icon"></span>
+                                    <a href="https://clientengagement.smeru.or.id/" data-spm="dcart"><span class="cart-icon"></span>
                                         <span class="cart-num" id="topActionCartNumber"></span></a>
                                 </div>
                                 <div class="lzd-header-banner" id="topActionLiveUpBanner"></div>
@@ -2587,7 +2587,7 @@
                             data-mod-name="@ali/lzdmod-site-menu-nav-pc/pc/index" data-config="{}">
                             <div class="lzd-site-menu-nav-container">
                                 <div class="lzd-site-menu-nav-category">
-                                    <a href="https://clientengagement.smeru.or.id/cax/">
+                                    <a href="https://clientengagement.smeru.or.id/">
                                         <span class="lzd-site-menu-nav-category-text">คำจำแนกประเภท</span>
                                     </a>
                                     <div class="lzd-site-menu-nav-menu">
@@ -3676,7 +3676,7 @@
                                     </div>
                                 </div>
                                 <nav class="lzd-menu-labels" data-spm="menu">
-                                    <a class="lzd-menu-labels-item" href="https://clientengagement.smeru.or.id/cax/">
+                                    <a class="lzd-menu-labels-item" href="https://clientengagement.smeru.or.id/">
                                         <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                             <img alt="เดโมสล็อต PG" class="lzd-site-nav-menu-iconfont-img"
                                                 src="https://ik.imagekit.io/jadusquad/logojadu.png" />
@@ -3684,7 +3684,7 @@
                                         <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-LazMall">&#xe629;</i>-->
                                         <span class="lzd-menu-labels-item-text">เดโมสล็อต PG</span>
                                     </a>
-                                    <a class="lzd-menu-labels-item" href="https://clientengagement.smeru.or.id/cax/">
+                                    <a class="lzd-menu-labels-item" href="https://clientengagement.smeru.or.id/">
                                         <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                             <img alt="การสาธิตล็อตเตอรี่" class="lzd-site-nav-menu-iconfont-img"
                                                 src="https://ik.imagekit.io/jadusquad/logojadu.png" />
@@ -3692,7 +3692,7 @@
                                         <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-MobileTop1">&#xe768;</i>-->
                                         <span class="lzd-menu-labels-item-text">การสาธิตล็อตเตอรี่</span>
                                     </a>
-                                    <a class="lzd-menu-labels-item" href="https://clientengagement.smeru.or.id/cax/">
+                                    <a class="lzd-menu-labels-item" href="https://clientengagement.smeru.or.id/">
                                         <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                             <img alt="การฝากเงิน" class="lzd-site-nav-menu-iconfont-img"
                                                 src="https://ik.imagekit.io/jadusquad/logojadu.png" />
@@ -3700,7 +3700,7 @@
                                         <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-Vouchers">&#xe76a;</i>-->
                                         <span class="lzd-menu-labels-item-text">การฝากเงิน</span>
                                     </a>
-                                    <a class="lzd-menu-labels-item" href="https://clientengagement.smeru.or.id/cax/">
+                                    <a class="lzd-menu-labels-item" href="https://clientengagement.smeru.or.id/">
                                         <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                             <img alt="การถอนเงิน" class="lzd-site-nav-menu-iconfont-img"
                                                 src="https://ik.imagekit.io/jadusquad/logojadu.png" />
@@ -4110,7 +4110,7 @@
                                     <span class="pdp-product-brand__name">แบรนด์<!-- -->:<!-- -->
                                     </span>
                                     <a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-product-brand__brand-link"
-                                        target="_self" href="https://clientengagement.smeru.or.id/cax/">เว็บไซต์ SuperT88</a>
+                                        target="_self" href="https://clientengagement.smeru.or.id/">เว็บไซต์ SuperT88</a>
                                     <div class="pdp-product-brand__divider"></div>
                                 </div>
                             </div>
@@ -4222,7 +4222,7 @@
                                     <div class="seller-container" data-spm="seller">
                                         <div class="seller-name">
                                             <div class="seller-name__wrapper">
-                                                <div class="seller-name__title">2025 <a href="https://clientengagement.smeru.or.id/cax/">@ JD_SQUAD SEO</a> </div>
+                                                <div class="seller-name__title">2025 <a href="https://clientengagement.smeru.or.id/">@ JD_SQUAD SEO</a> </div>
                                                 <div class="seller-name__detail" data-spm="seller">
                                                     <a
                                                         class="pdp-link pdp-link_size_l pdp-link_theme_black seller-name__detail-name"></a>
